@@ -9,11 +9,15 @@
   "keywords": [
     "math",
     "numbers",
-    "functions"
+    "max",
+    "min",
+    "high",
+    "low",
+    "value"
   ],
   "author": "Steve Thompson",
   "license": "FREE",
-  "homepage": "",
   "dependencies": {
+    "error-if-not-populated-array": "latest"
   }
 }
