@@ -1,8 +1,8 @@
 {
-  "name": "@writetome51/get-max-min-square-root",
+  "name": "@writetome51/get-max-min",
   "version": "1.0.0",
-  "description": "Get the max, get the min, get the square root",
-  "main": "",
+  "description": "Get the max and the min from an array of numbers",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

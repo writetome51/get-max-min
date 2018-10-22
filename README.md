@@ -1,4 +1,3 @@
-getSquareRoot(number)
 
 getMax(numbers)
 
