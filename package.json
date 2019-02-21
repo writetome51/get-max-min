@@ -1,10 +1,11 @@
 {
   "name": "@writetome51/get-max-min",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the max and the min from an array of numbers",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "keywords": [
     "math",
@@ -15,6 +16,14 @@
     "low",
     "value"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/get-max-min.git"
+  },
+  "bugs": {
+    "url": "https://github.com/writetome51/get-max-min/issues"
+  },
+  "homepage": "https://github.com/writetome51/get-max-min#readme",
   "author": "Steve Thompson",
   "license": "FREE",
   "dependencies": {

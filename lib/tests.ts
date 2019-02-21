@@ -1,4 +1,4 @@
-import { getMax, getMin } from './getMax_getMin';
+import { getMax, getMin} from '../dist';
 
 
 // Test 1:
@@ -7,13 +7,13 @@ if (result === 10) console.log('test 1 passed');
 else console.log('test 1 FAILED');
 
 // Test 2:
-result = getMin([1, 10]);
+result = getMin([1, 10, '2',1, 10, '2',1, 10, '2']);
 if (result === 1) console.log('test 2 passed');
 else console.log('test 2 FAILED');
 
 
 // Test 3:
-result = getMax([-1, -10]);
+result = getMax([-1, -10, -2]);
 if (result === -1) console.log('test 3 passed');
 else console.log('test 3 FAILED');
 
@@ -65,3 +65,4 @@ else console.log('test 11 FAILED');
 result = getMin(['-1.05555', Number.NEGATIVE_INFINITY, Number.MIN_VALUE]);
 if (result === Number.NEGATIVE_INFINITY) console.log('test 12 passed');
 else console.log('test 12 FAILED');
+
