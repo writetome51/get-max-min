@@ -1,4 +1,4 @@
-import { getMax, getMin} from '../dist';
+import { getMax, getMin} from './index';
 
 
 // Test 1:
