@@ -7,8 +7,8 @@ Returns max value in `numbers`
 Returns min value in `numbers`
 
 The items in `numbers` can be of type 'number' or 'string'.   
-For string numbers, the only non-numeric characters allowed are a period, plus, and minus .   
-Care must still be taken with string numbers, or else the functions could return NaN.
+For string numbers, the only non-numeric characters allowed are a period, plus,  
+and minus.
 
 ## Examples
 ```
