@@ -1,4 +1,4 @@
-import {getMax, getMin} from 'index.js';
+import {getMax, getMin} from './index.js';
 
 // Test 1:
 let result = getMax([1, 10]);
