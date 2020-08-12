@@ -1,8 +1,9 @@
 {
   "name": "@writetome51/get-max-min",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Get the max and the min from an array of numbers",
   "main": "index.js",
+  "types": "index.d.ts",
   "type": "module",
   "keywords": [
     "math",
@@ -24,6 +25,6 @@
   "author": "Steve Thompson",
   "license": "FREE",
   "dependencies": {
-    "error-if-length-is-zero": "^1.0.0"
+    "error-if-length-is-zero": "^1.0.1"
   }
 }

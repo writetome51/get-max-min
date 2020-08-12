@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14f528a9-b72b-4e39-a31d-e76cbfe849ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="14f528a9-b72b-4e39-a31d-e76cbfe849ca" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -81,7 +80,7 @@
       <workItem from="1540245910207" duration="4868000" />
       <workItem from="1544310154977" duration="166000" />
       <workItem from="1550728955574" duration="1159000" />
-      <workItem from="1595914250851" duration="1212000" />
+      <workItem from="1595914250851" duration="1418000" />
     </task>
     <servers />
   </component>
@@ -96,22 +95,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="406" y="128" key="#tests.js/0.0.1440.900@0.0.1440.900" timestamp="1595915464902" />
-    <state width="1398" height="391" key="GridCell.Tab.0.bottom" timestamp="1595915464930">
+    <state width="1398" height="391" key="GridCell.Tab.0.bottom" timestamp="1595915671453">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="391" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595915464930" />
-    <state width="1398" height="391" key="GridCell.Tab.0.center" timestamp="1595915464929">
+    <state width="1398" height="391" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595915671453" />
+    <state width="1398" height="391" key="GridCell.Tab.0.center" timestamp="1595915671453">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="391" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595915464929" />
-    <state width="1398" height="391" key="GridCell.Tab.0.left" timestamp="1595915464928">
+    <state width="1398" height="391" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595915671453" />
+    <state width="1398" height="391" key="GridCell.Tab.0.left" timestamp="1595915671452">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="391" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595915464928" />
-    <state width="1398" height="391" key="GridCell.Tab.0.right" timestamp="1595915464929">
+    <state width="1398" height="391" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595915671452" />
+    <state width="1398" height="391" key="GridCell.Tab.0.right" timestamp="1595915671453">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="391" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595915464929" />
+    <state width="1398" height="391" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595915671453" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1595915360584">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
